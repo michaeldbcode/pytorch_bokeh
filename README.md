@@ -22,3 +22,5 @@ compared to its PyNET 47.5M parameter counterpart.
 
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/574af571-01ff-4a45-ad5a-edbc5611f370" />
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/b7e92ba6-0649-4676-bb3a-237594678f52" />
+
+Please see the bokeh_final_paper.pdf for the full paper on this group project exploring artificial bokeh generation using U-Net CNN models
